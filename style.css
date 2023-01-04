@@ -1,0 +1,29 @@
+body {
+    background-image:url("farm.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+.basket 
+{
+  width: 120px;
+  position: absolute;
+  bottom: 0;
+  left:0;
+
+
+}
+.egg
+{
+  height: 70px;
+  position: absolute;
+  top: 0;
+  left:0;
+  visibility:visible;
+}
+.win
+{
+  visibility: hidden;
+}
+
